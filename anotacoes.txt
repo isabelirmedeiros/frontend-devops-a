@@ -1,0 +1,4 @@
+Anotações sobre a aula de frontend e devops 
+---
+
+git -> onde estou, em qual diretorio 
